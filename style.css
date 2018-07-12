@@ -1,0 +1,16 @@
+body
+{
+    background-color: lightgreen;
+    font-weight: initial;
+    font-family: cursive;
+}
+.wrap
+{
+    margin: auto;
+    width: 600px;
+}
+blockquote
+{
+    border: 1px solid blue;
+    text-align: center;
+}
